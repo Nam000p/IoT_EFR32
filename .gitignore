@@ -1,0 +1,26 @@
+# Simplicity Studio / Eclipse Build Folders
+Debug/
+Release/
+GNU ARM v*/
+unwanted/
+
+# Compiler outputs
+*.o
+*.d
+*.obj
+*.map
+*.hex
+*.bin
+*.s37
+*.axf
+*.elf
+
+# Windows executables
+*.exe
+*.dll
+
+# IDE Settings (Optional - keeps your personal settings out)
+.settings/
+.project
+.cproject
+*.launch
